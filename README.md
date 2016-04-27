@@ -1,5 +1,4 @@
-# counter_challenge
-Bid-counter challenge
+# Bid-counter challenge
 
 Welome to today's programming challenge: Who programs the quickest bid-counter?
 Prize: to be announced.
