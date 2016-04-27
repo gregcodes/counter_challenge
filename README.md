@@ -5,3 +5,5 @@ Welome to today's programming challenge: **Who programs the *quickest* bid-count
 Prize: to be announced.
 
 All programming languages allowed.
+
+Please upload your resulting dataset incl. a screenshot of the sys.time difference from beginning and end of script.
