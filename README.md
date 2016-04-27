@@ -14,6 +14,7 @@ Your counter needs to count all 1,000 bids correctly but at the same time be ult
 
 Are you up for the challenge?
 
-When you are finished, please upload:
-- your resulting dataset in .CSV format
-- a screenshot of the sys.time difference from beginning and end of script
+When you are finished, please:
+- upload your resulting dataset in .CSV format
+- upload a screenshot of the sys.time difference from beginning and end of script
+- introduce your script to the group
