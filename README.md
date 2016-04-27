@@ -17,4 +17,4 @@ Are you up for the challenge?
 When you are finished, please:
 - upload your resulting dataset in .CSV format
 - upload a screenshot of the sys.time difference from beginning and end of script
-- introduce your script to the group
+- introduce your script to your fellow coders
