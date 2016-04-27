@@ -1,3 +1,3 @@
 # Current Highscore #
-# x.x seconds #
-# set by gregcodes #
+## x.x seconds ##
+### set by gregcodes ###
