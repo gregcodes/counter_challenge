@@ -4,4 +4,4 @@ Welome to today's programming challenge: **Who programs the *quickest* bid-count
 
 Prize: to be announced.
 
-All programming languages allowed (except C).
+All programming languages allowed.
