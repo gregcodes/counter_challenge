@@ -6,7 +6,7 @@ Prize: to be announced.
 
 All programming languages allowed.
 
-Your counter needs to count all 1000 bids correctly but at the same time be ultra-fast. Are you up for the challenge?
+Your counter needs to count all 1,000 bids correctly but at the same time be ultra-fast. Are you up for the challenge?
 
 When you are finished, please upload:
 - your resulting dataset
