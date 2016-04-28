@@ -25,7 +25,7 @@ next Target  | -- | 1
 Requirements:
 Your counter needs to count all 1,000 bids correctly but at the same time be ultra-fast. 
 
-Are you up for the challenge?
+Are you up for the challenge? Then download the dataset.csv and get started!
 
 When you are finished, please:
 - upload your resulting dataset in .CSV format
