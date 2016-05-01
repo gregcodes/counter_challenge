@@ -1,8 +1,3 @@
-## Highscores (n=100,000) ##
-
-### Low-level C in R: **x seconds** ###
-#### set by Greg ####
-
 ## Highscores: (n=1,000) ##
 
 ### Dark Mathematics: **0.0038 seconds** ###
