@@ -1,4 +1,4 @@
-## Highscores: (n=1,000) ##
+## Highscores ##
 
 ### Dark Mathematics: **0.0038 seconds** ###
 #### set by David ####
