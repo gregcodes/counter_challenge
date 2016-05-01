@@ -56,8 +56,3 @@ for(i in 1:index_dupl)
 
 time_end <- Sys.time()
 print(time_end-time_start)
-
-# manually check if the algorithm worked correctly
-des_columns <- c(2:5)
-check_data <- duplicates[, des_columns, with = FALSE]
-print(check_data[0:100])
