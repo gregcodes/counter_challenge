@@ -1,2 +1,2 @@
-## Oliver's code visualized on Pythontutor ## 
-# http://goo.gl/6JvdZc #
+# Oliver's code visualized on Pythontutor #
+## http://goo.gl/6JvdZc ##
