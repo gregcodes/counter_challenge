@@ -1,13 +1,13 @@
 # Highscores #
 
-## **0.0038 seconds** ##
+## Dark Mathematics: **0.0038 seconds** ##
 ### set by David ###
 
-## **0.009 seconds** ##
+## The Pythonic Way: **0.009 seconds** ##
 ### set by Oliver ###
 
-## **0.4 seconds** ##
+## Simple and elegant: **0.4 seconds** ##
 ### set by Karin ###
 
-## **2.4 seconds** ##
+## Low-level C in R: **2.4 seconds** ##
 ### set by Greg ###
