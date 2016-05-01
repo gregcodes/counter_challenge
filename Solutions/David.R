@@ -41,7 +41,11 @@ iei <- function(x) {
 comp_iei <- cmpfun(iei)
 
 # load data -------
-dt <- data.table(read.csv("https://raw.githubusercontent.com/gregcodes/counter_challenge/master/dataset.csv", sep = ";"))
+
+link_big <- "https://raw.githubusercontent.com/gregcodes/counter_challenge/master/Datasets/dataset_big.csv"
+link_small <- "https://raw.githubusercontent.com/gregcodes/counter_challenge/master/Datasets/dataset_small.csv"
+
+dt <- data.table(read.csv(link_big, sep = ";"))
 setnames(dt, c("id", "comp", "date"))
 dt[, date := as.Date(date)]
 dt <- dt[order(comp, date)]
@@ -60,7 +64,7 @@ res_bench <- microbenchmark(
   iei_int = dt[, count_comp := comp_iei(date), by = "comp"],
   comp_iei = dt[, count_int := iei(date_int), by = "comp"],
   comp_iei_int = dt[, count_int_comp := comp_iei(date_int), by = "comp"],
-  times = 100
+  times = 10 # change this to 100 if the small dataset is used!
 )
 
 res_bench
