@@ -1,13 +1,18 @@
-# Highscores #
+## Highscores (n=100,000) ##
 
-## Dark Mathematics: **0.0038 seconds** ##
-### set by David ###
+### Low-level C in R: **x seconds** ###
+#### set by Greg ####
 
-## The Pythonic Way: **0.009 seconds** ##
-### set by Oliver ###
+## Highscores: n(1,000) ##
 
-## Simple and elegant: **0.4 seconds** ##
-### set by Karin ###
+### Dark Mathematics: **0.0038 seconds** ###
+#### set by David ####
 
-## Low-level C in R: **2.4 seconds** ##
-### set by Greg ###
+### The Pythonic Way: **0.009 seconds** ###
+#### set by Oliver ####
+
+### Simple and elegant: **0.4 seconds** ###
+#### set by Karin ####
+
+### Low-level C in R: **2.4 seconds** ###
+#### set by Greg ####
