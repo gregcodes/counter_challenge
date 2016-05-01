@@ -2,7 +2,7 @@
 library(data.table)
 library(dplyr)
 
-#import data
+# import data
 dataset <- read.csv2("dataset.csv", header = TRUE)
 dataset <- data.table(dataset)
 
