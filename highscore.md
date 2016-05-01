@@ -1,6 +1,6 @@
 # Highscores #
 
-## **0.000581 seconds** ##
+## **0.009 seconds** ##
 ### set by Oliver ###
 
 ## **0.0038 seconds** ##
