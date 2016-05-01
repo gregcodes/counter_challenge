@@ -4,7 +4,7 @@ library(dplyr)
 
 #import data
 dataset <- read.csv2("dataset.csv", header = TRUE)
-dataset <- data.table(original_data)
+dataset <- data.table(dataset)
 
 time_start <- Sys.time()
 
