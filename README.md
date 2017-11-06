@@ -2,7 +2,7 @@
 
 Welome to today's programming challenge: **Who programs the *quickest* M&A bid-counter?**
 
-Prize: to be announced.
+Prize: To be announced.
 
 All programming languages allowed.
 
@@ -28,7 +28,7 @@ Your counter needs to count all 1,000 bids correctly but at the same time be ult
 Are you up for the challenge? Then download the dataset.csv and get started!
 
 When you are finished, please:
-- upload your script to the repository
-- hand in your sys.time difference from beginning and end of script
-- introduce your script to your fellow coders 
-- visualize the results
+- Upload your script to the repository
+- Hand in your sys.time difference from beginning and end of script
+- Introduce your script to your fellow coders 
+- Visualize the results
