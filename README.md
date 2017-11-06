@@ -1,6 +1,6 @@
-# Bid-counter challenge
+# Algorithmic challenge
 
-Welome to today's programming challenge: **Who programs the *quickest* bid-counter?**
+Welome to today's programming challenge: **Who programs the *quickest* M&A bid-counter?**
 
 Prize: to be announced.
 
