@@ -7,7 +7,7 @@ Prize: to be announced.
 All programming languages allowed.
 
 Requirement:
-The idea is to identify only independent bids for a given company, i.e. to clean the data for bidding contest when multiple companies were bidding for the same target. Therfore, multiple bids for the same target firm within a two-month period should only be counted as one single bid.
+The idea is to identify only independent bids for a given target company, i.e. to clean the data for bidding contest when multiple companies were bidding for the same target. Therfore, multiple bids for the same target firm within a two-month period should only be counted as one single bid.
 
 Example (date format: dd/mm/yyyy):
 
