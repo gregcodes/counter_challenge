@@ -6,8 +6,8 @@ Prize: to be announced.
 
 All programming languages allowed.
 
-Counting rule:
-Multiple bids for the same target firm within a two-month period are counted only as one single bid.
+Requirement:
+Multiple bids for the same target firm within a two-month period are counted only as one single bid (the idea is to identify only independent events, i.e. to count a bidding contest when multiple companies are bidding for the same company only as one bid).
 
 Example (date format: dd/mm/yyyy):
 
